@@ -1,1 +1,1 @@
-# linear-aync-test
+# linear-sync-test
